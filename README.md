@@ -1,6 +1,20 @@
-# 🛡️ Insure - Modern Insurance Platform
+# 🛡️ InsureEase - AI driven Policy Management system
 
-A comprehensive insurance management platform built with Next.js, Flask, and MongoDB. InsureEase provides a seamless experience for users to browse, apply for, and manage insurance policies with AI-powered chatbot assistance and voice navigation.
+InsuranceEase is a feature-rich, responsive insurance comparison web application.
+Users can browse, filter, and compare insurance policies across major categories like Health, Vehicle, Mobile, and Life.
+It includes a built-in premium calculator that adjusts based on user inputs such as age, vehicle type, coverage, etc.
+The frontend is crafted using React.js with Tailwind CSS for clean UI and responsiveness across devices.
+UI components leverage Radix UI for accessibility and Lucide for modern icons.
+Authentication is handled with JWT tokens, and all sensitive data is secured using AES-256 encryption.
+The app also supports a dynamic dashboard layout with stateful UI updates.
+The backend is built on Node.js and Express.js, providing RESTful APIs for CRUD operations.
+MongoDB is used as the database with Mongoose for schema definition.
+Hosted locally with Vite for fast development, with Git for version control.
+Clean folder structure and component separation make it highly maintainable.
+Features a Stripe-inspired modern design with hover effects and animations.
+Uses reusable components, centralized utility functions, and protected routes.
+Built with scalability and developer experience in mind.
+Ideal for users seeking a clean, secure, and user-friendly insurance comparison solution.
 
 ![InsureEase Platform](https://img.shields.io/badge/Next.js-15.2.0-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
