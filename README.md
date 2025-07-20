@@ -267,8 +267,5 @@ docker-compose up -d
 
 ## 📞 Support
 
-For support, email insure@gmail.com or create an issue in the repository.
+For support, email ajinkya.suryawanshi0104@gmail.com or create an issue in the repository.
 
----
-
-**Made with ❤️ by the Insure** 
