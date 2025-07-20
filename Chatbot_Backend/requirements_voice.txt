@@ -1,0 +1,16 @@
+# Core Flask dependencies
+flask==2.3.3
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Voice processing
+SpeechRecognition==3.10.0
+gTTS==2.3.2
+pydub==0.25.1
+
+# HTTP requests
+requests==2.31.0
+
+# Additional dependencies for better compatibility
+setuptools==69.0.3
+wheel==0.42.0 
