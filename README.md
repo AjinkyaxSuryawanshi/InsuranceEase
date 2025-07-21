@@ -25,14 +25,14 @@ Ideal for users seeking a clean, secure, and user-friendly insurance comparison 
 ## ✨ Features
 
 ### 🎯 Core Features
-- **Multi-Insurance Support**: Health, Vehicle, Life, Home, and Travel Insurance
-- **User Authentication**: Secure login/register with JWT tokens
-- **Admin Dashboard**: Complete policy and application management
-- **Policy Application**: Streamlined application process with document upload
-- **Claims Management**: Submit and track insurance claims
-- **Document Vault**: Secure document storage and management
-- **Payment Integration**: Razorpay payment gateway integration
-- **PDF Processing**: AI-powered PDF summarization and analysis
+- **Multi-Insurance Support**: Health, Vehicle, Life, Home, and Travel Insurance and many more.
+- **User Authentication**: Secure login/register with JWT tokens.
+- **Admin Dashboard**: Complete policy and application management.
+- **Policy Application**: Streamlined application process with document upload.
+- **Claims Management**: Submit and track insurance claims.
+- **Document Vault**: Secure document storage and management, using whenever required.
+- **Payment Integration**: Razorpay payment gateway integration.
+- **PDF Processing**: AI-powered PDF summarization and analysis.
 
 ### 🤖 AI & Voice Features
 - **Smart Chatbot**: FAQ-based insurance assistant with keyword matching
