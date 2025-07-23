@@ -267,5 +267,5 @@ docker-compose up -d
 
 ## 📞 Support
 
-For support, email ajinkya.suryawanshi0104@gmail.com or create an issue in the repository.
+For support, create an issue in the repository.
 
