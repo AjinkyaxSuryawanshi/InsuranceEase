@@ -1,5 +1,7 @@
 # 🛡️ InsureEase - AI driven Policy Management system
 **Deployed Project:** [https://insure-webapp.vercel.app/](https://insure-webapp.vercel.app/) ✅  
+[![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen?style=for-the-badge&logo=vercel)](https://insure-webapp.vercel.app/)
+
 
 InsuranceEase is a feature-rich, responsive insurance comparison web application.
 Users can browse, filter, and compare insurance policies across major categories like Health, Vehicle, Mobile, and Life.
@@ -16,8 +18,6 @@ Features a Stripe-inspired modern design with hover effects and animations.
 Uses reusable components, centralized utility functions, and protected routes.
 Built with scalability and developer experience in mind.
 Ideal for users seeking a clean, secure, and user-friendly insurance comparison solution.
-
-[![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-brightgreen?style=for-the-badge&logo=vercel)](https://insure-webapp.vercel.app/)
 
 
 
